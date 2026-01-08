@@ -4,7 +4,9 @@
 
 <!-- Typing animado -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+Devs!+Eu+sou+o+Matheus.;Bem-vindos+ao+meu+GitHub!;Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%9A%80](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Eric+Beltr%C3%A3o.;Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o.;Java+|+Python+|+SQL+|+Git+%F0%9F%9A%80)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Eric+Beltr%C3%A3o.;Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o.;Java+|+Python+|+SQL+|+Git+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 # [Objetivos Profissionais](https://www.linkedin.com/in/ericbeltrao/) 
