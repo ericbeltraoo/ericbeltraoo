@@ -10,12 +10,13 @@
 </p>
 
 # [Objetivos Profissionais](https://www.linkedin.com/in/ericbeltrao/) 
-Iniciei meus estudos na área de Tecnologia da Informação em 2024, com foco em lógica de programação e desenvolvimento de sistemas. Atualmente, estou finalizando o curso técnico em Desenvolvimento de Sistemas pelo SENAI, onde tive contato prático com programação, banco de dados, versionamento de código e projetos colaborativos.
+Iniciei minha trajetória na área de Tecnologia da Informação em 2024, com foco em lógica de programação e desenvolvimento de sistemas. Concluí o curso técnico em Desenvolvimento de Sistemas pelo SENAI, onde adquiri experiência prática com programação, banco de dados, versionamento de código e participação em projetos colaborativos.
 
-Meu objetivo é atuar como desenvolvedor back-end, aplicando e aprimorando conhecimentos em linguagens como Java, Python e JavaScript, além do uso de SQL para manipulação de dados. Busco consolidar minha base técnica por meio de projetos práticos, seguindo boas práticas de programação e aprendizado contínuo.
+Atualmente, estou iniciando a graduação em Engenharia de Software, com o objetivo de aprofundar meus conhecimentos técnicos e teóricos, fortalecendo minha base em desenvolvimento de software e boas práticas de engenharia.
 
-No início da minha trajetória profissional, procuro uma oportunidade como Jovem Aprendiz ou desenvolvedor em formação, onde eu possa aprender na prática, contribuir com responsabilidade e evoluir tecnicamente. A longo prazo, almejo crescer na área de desenvolvimento de software, adquirindo experiência sólida e construindo uma carreira consistente em tecnologia.
+Tenho interesse em atuar como desenvolvedor back-end, aplicando e aprimorando conhecimentos em linguagens como Java, Python e JavaScript, além do uso de SQL para manipulação de dados. Busco consolidar minha evolução por meio de projetos práticos, aprendizado contínuo e atenção à qualidade, organização e clareza do código.
 
+Neste momento, procuro oportunidades como estagiário ou desenvolvedor em formação, onde possa aprender na prática, contribuir com responsabilidade e crescer tecnicamente. A longo prazo, almejo construir uma carreira sólida na área de desenvolvimento de software, evoluindo de forma consistente dentro do ecossistema de tecnologia.
 
 # Tecnologia em Desenvolvimento
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
