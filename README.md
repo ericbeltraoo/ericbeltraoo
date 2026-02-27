@@ -5,28 +5,23 @@
 <!-- Typing animado -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Eric+Beltr%C3%A3o.;Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o.;Java+|+Python+|+SQL+|+Git+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Eric+Beltr%C3%A3o.;Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o.;Java+|+SQL+|+Git+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 # [Objetivos Profissionais](https://www.linkedin.com/in/ericbeltrao/) 
 Iniciei minha trajetória na área de Tecnologia da Informação em 2024, com foco em lógica de programação e desenvolvimento de sistemas. Concluí o curso técnico em Desenvolvimento de Sistemas pelo SENAI, onde adquiri experiência prática com programação, banco de dados, versionamento de código e participação em projetos colaborativos.
 
-Atualmente, estou iniciando a graduação em Engenharia de Software, com o objetivo de aprofundar meus conhecimentos técnicos e teóricos, fortalecendo minha base em desenvolvimento de software e boas práticas de engenharia.
+Atualmente, curso Engenharia de Software e atuo como Estagiário na Gerência de Tecnologia da Informação e Projetos (GETIP) da Fundação REFER. Minhas atividades incluem o suporte técnico especializado, auxílio na manutenção de máquinas e ativos de rede, garantindo a estabilidade e segurança do ambiente tecnológico. Essa vivência tem sido fundamental para consolidar minha base em infraestrutura e processos de gestão.
 
-Tenho interesse em atuar como desenvolvedor back-end, aplicando e aprimorando conhecimentos em linguagens como Java, Python e JavaScript, além do uso de SQL para manipulação de dados. Busco consolidar minha evolução por meio de projetos práticos, aprendizado contínuo e atenção à qualidade, organização e clareza do código.
+Paralelamente, mantenho meu foco no desenvolvimento Back-end, especializando-me no ecossistema Java com o framework Spring Boot, além do uso de SQL (MySQL) para manipulação e estruturação de dados. Busco unir minha base técnica em infraestrutura com a construção de aplicações robustas, prezando sempre pela qualidade, organização e clareza do código.
 
-Neste momento, procuro oportunidades como estagiário ou desenvolvedor em formação, onde possa aprender na prática, contribuir com responsabilidade e crescer tecnicamente. A longo prazo, almejo construir uma carreira sólida na área de desenvolvimento de software, evoluindo de forma consistente dentro do ecossistema de tecnologia.
+Meu objetivo atual é evoluir como desenvolvedor em formação, utilizando minha visão sistêmica para contribuir em projetos desafiadores e construir uma carreira sólida no ecossistema de tecnologia.
 
 # Tecnologia em Desenvolvimento
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-003980?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-'![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)'
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
@@ -41,16 +36,11 @@ Neste momento, procuro oportunidades como estagiário ou desenvolvedor em forma�
 
 ### Linguagens
 ![Java](https://img.shields.io/badge/Java-000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000.svg?style=for-the-badge&logo=database&logoColor=white)
-
-### Web
-![HTML5](https://img.shields.io/badge/HTML5-000.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-000.svg?style=for-the-badge&logo=git&logoColor=white)
