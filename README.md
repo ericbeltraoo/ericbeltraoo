@@ -2,7 +2,7 @@
 
 <p>🎓 Software Engineering student. Focused on Backend Development (Java/Spring Boot).</p>
 
-<p>📜 Graduated as a Systems Development Technician at <a href="https://www.firjan.com.br/senai/unidades/unidade/senai-maracana.htms" target="blank_">Firjan SENAI Maracanã</a>.</p>
+<p>📜 Graduated as a Systems Development Technician at <a href="https://www.firjan.com.br/" target="blank_">Firjan SENAI Maracanã</a>.</p>
 
 <p>🚀 Developing robust solutions with Java, Spring Boot, and SQL.</p>
 
