@@ -6,7 +6,7 @@
 
 <p>🚀 Developing robust solutions with Java, Spring Boot, and SQL.</p>
 
-<p>☕ Java Complete Course (Udemy - Prof. Nélio Alves) in progress.</p>
+<p>☕  Java Complete Course (Udemy - Prof. Nélio Alves) in progress.</p>
 
 <hr>
 
