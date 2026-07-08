@@ -4,6 +4,8 @@
 
 <p>📜 Graduated as a Systems Development Technician at <a href="https://www.firjan.com.br/" target="blank_">Firjan SENAI Maracanã</a>.</p>
 
+<p>🪪 <a href="https://ericbeltraoo.github.io" target="blank_">My Portfolio</a> — back-end projects, stack & contact.</p>
+
 <p>🚀 Developing robust solutions with Java, Spring Boot, and SQL.</p>
 
 <p>☕  Java Complete Course (Udemy - Prof. Nélio Alves) in progress.</p>
